@@ -75,8 +75,8 @@ Note:- The website is at the top of every page, and have a navigation menu for p
 
 Large screen: </br>
 
-![Navigation page large screen] (./assets/Project_Images/nav-lg.png)
+![Navigation page large screen](./assets/Project_Images/nav-lg.png)
 
 Small screen: </br>
 
-![Navigation page small screen] (./assets/Project_Images/nav-sm.png)</br>
+![Navigation page small screen](./assets/Project_Images/nav-sm.png) </br>
