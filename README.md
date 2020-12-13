@@ -2,13 +2,11 @@
  **Submitted By:** Saloni Gupta\
 _Date_: december, 12th, 2020 
 
-Web Visualization Dashboard (Latitude)
+Web Visualization Dashboard (Latitude) </br>
 ![Hml image](./assets/Project_Images/html.jpg)
 </br>
 ## Background
 Whether you are managing one website or hundreds for yourself or your clients, one thing is for certain. There are a lot of analytics out there that you must review to ensure that it looks good, and interactive. But the last thing any busy professional wants to do is log in from one tool to the next to see the data they need. Fortunately, a dashboard is the answer. In this project, we’re going to look at how you can create an effective analytics dashboard that will cut down the time you spend getting to your analytics, giving you more time to actually review your data.
-
-Images/landingResize.png
 
 ## Latitude - Latitude Analysis Dashboard with Latitude
 Created a visualization dashboard website for previous project work, specifically, we'll be plotting [Weather data](./Resources/cities.csv), and the original GitHub respository found here [python-api-challenge](https://github.com/SaloniGupta1201/Python-API-Challenge).
