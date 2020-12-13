@@ -12,6 +12,7 @@ Whether you are managing one website or hundreds for yourself or your clients, o
 Created a visualization dashboard website for previous project work, specifically, we'll be plotting [Weather data](./Resources/cities.csv), and the original GitHub respository found here [python-api-challenge](https://github.com/SaloniGupta1201/Python-API-Challenge).
 
 In building this dashboard, I created individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. I created also a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+Please visit the website: [Web Visualization Dashboard - by Saloni Gupta](https://salonigupta1201.github.io/Web-Design-Challenge/)
 
 ## Website Contents
 The website consist of 7 pages total, including:
