@@ -21,11 +21,11 @@ The website consist of 7 pages total, including:
 - Links to each visualizations page. There is a sidebar containing preview images of each plot, and clicking an image will take to that visualization. </br>
 The view looks as follows: </br>
 
-Large screen:
+Large screen: </br>
 
 ![Landing page large screen](./assets/Project_Images/landinglarge.png)
 
-Small screen:
+Small screen: </br>
 
 ![Landing page small screen](./assets/Project_Images/landing-sm.png)
 
@@ -35,11 +35,11 @@ Small screen:
 - A paragraph describing the plot and its significance. </br>
 Large screen: </br>
 
-![visualize page large screen](./assets/Project_Images/visualize-lg.png)  </br>
+![visualize page large screen](./assets/Project_Images/visualize-lg.png)
 
 Small screen: </br>
 
-![visualize page small screen](./assets/Project_Images/visualize-sm.png)  </br>
+![visualize page small screen](./assets/Project_Images/visualize-sm.png)</br>
 
 ## 3. Comparisons page
 - Contains all of the visualizations on the same page so we can easily visually compare them.
