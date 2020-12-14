@@ -37,7 +37,7 @@ body {
     background-color:#adc7c4;
 }
 
-/* To format dropdown items background color when hover on*/
+/* To format dropdown items background color when hovered on*/
 .dropdown-menu .dropdown-item:hover, .dropdown-menu .dropdown-item:active{
     background-color:#adc7c4; 
 }
@@ -90,7 +90,7 @@ body {
     margin-right: 15px;
 }
 
-/* To format sidebar visualization header on right across all pages*/
+/* To format sidebar visualization images on right across all pages*/
 img{
     margin-top: 10px;
     width: 125px;
@@ -119,7 +119,7 @@ p {
     margin-inline-end: 0px;
 }
 
-/* To highlight visualization image selection with a solid color*/
+/* To highlight visualization image selection with a solid color when hovered on*/
 .active, .imageNav-photo:hover{
     border-color:rgb(20, 150, 150);
     border-style: solid; 
@@ -224,7 +224,7 @@ h3 {
     button:focus {
         outline: 1px dotted;
     }
-    /* The below classed are used to format Comparison Page Media Query Images and header*/
+    /* The below classes are used to format Comparison Page Media Query Images and header*/
     .imageNav-photo-comparison{
         padding-right: 200px;
         width: 220%;
