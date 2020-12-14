@@ -11,7 +11,9 @@ Whether you are managing one website or hundreds for yourself or your clients, o
 ## Latitude - Latitude Analysis Dashboard with Latitude
 Created a visualization dashboard website for previous project work, specifically, we'll be plotting [Weather data](./Resources/cities.csv), and the original GitHub respository found here [python-api-challenge](https://github.com/SaloniGupta1201/Python-API-Challenge).
 
-In building this dashboard, I created individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. I created also a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
+In building this dashboard, Created individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. Created also a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them. Analyse dashboards to find the correlation between latitude, Temperature, Humidity, Cloudiness and Wind speed.
+Used HTML, CSS3, and Bootstrap for the front end along with Python Pandas for data engineering.</br>
+
 Please visit the website: [Web Visualization Dashboard - by Saloni Gupta](https://salonigupta1201.github.io/Web-Design-Challenge/)
 
 ## Website Contents
