@@ -178,6 +178,11 @@ h3 {
     background-color:white;
   }
 
+.table-format{
+    border: 1px solid lightgrey;
+    border-collapse: collapse;
+    } 
+
 /* Media query for body */
 @media (max-width: 768px){
     body {
